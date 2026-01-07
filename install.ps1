@@ -5,7 +5,7 @@ $AppName = "LeoPack"
 $InstallDir = "$env:LOCALAPPDATA\$AppName"
 # IMPORTANT: Replace this URL with the direct link to your LeoPacks.zip file
 # Example: "https://github.com/YourUser/YourRepo/releases/download/v1.0/LeoPacks.zip"
-$ZipUrl = "YOUR_DIRECT_DOWNLOAD_LINK_HERE" 
+$ZipUrl = "https://github.com/VacTuzX-dot/LeoPackz/releases/download/v1/LeoPacks.zip" 
 
 Write-Host "Installing $AppName..." -ForegroundColor Cyan
 

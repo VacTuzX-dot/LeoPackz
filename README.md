@@ -5,7 +5,7 @@
 Run this command in **CMD** or **PowerShell**:
 
 ```powershell
-powershell -c "iwr https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/install.ps1 | iex"
+powershell -c "iwr https://raw.githubusercontent.com/VacTuzX-dot/LeoPackz/main/install.ps1 | iex"
 ```
 
 _(Replace `YOUR_USERNAME` and `YOUR_REPO` with the actual GitHub path)_
